@@ -1,5 +1,5 @@
 # Zadanie-zaliczenowe-CdW-
-Imię: 
-Nazwisko: 
+Imię: Hubert
+Nazwisko: Peciak
 Nr Albumu: 
-Nr Grupy: 
+Nr Grupy: C3
