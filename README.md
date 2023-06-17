@@ -1,5 +1,4 @@
 # Zadanie-zaliczenowe-CdW-
 Imię: Hubert
-Nazwisko: Peciak
-Nr Albumu: 
+Nr Albumu: 21450 
 Nr Grupy: C3
