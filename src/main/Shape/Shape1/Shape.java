@@ -16,7 +16,7 @@ public class Shape {
     public String getColor() {
         return color;
     }
-
+// Wyznaczanie koloru obiektu
     public void setColor(String color) {
         this.color = color;
     }
@@ -24,7 +24,7 @@ public class Shape {
     public boolean isFilled() {
         return filled;
     }
-
+// Wyznaczanie wypełnienia obiektu
     public void setFilled(boolean filled) {
         this.filled = filled;
     }

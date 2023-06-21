@@ -5,6 +5,8 @@ import src.main.Shape.Rectangle;
 import src.main.Shape.Square;
 
 public class ShapeTest {
+
+    // Jest to Program zajmujący się tworzeniem kształtów i obliczaniem/wyznaczaniem ich parametrów(wielkości, powierzchni, kolorze i wypełnieniu)
     public static void main(String[] args){
         Circle c1 = new Circle("red", false, 5.5);
         System.out.println(c1);
@@ -25,6 +27,7 @@ public class ShapeTest {
         Square sq1 = new Square(6.6);
         System.out.println(sq1);
         System.out.println(sq1.getArea());
+        System.out.println(sq1.getPerimeter());
         System.out.println(sq1.getColor());
         System.out.println(sq1.getSide());
 
